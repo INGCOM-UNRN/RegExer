@@ -1,3 +1,4 @@
+name: Ghituh Peigis
 on:
   push:
     branches:
